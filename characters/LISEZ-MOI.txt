@@ -1,0 +1,14 @@
+Dépose ici les images des personnages (PNG à fond transparent), une par fichier :
+
+  djibryl.png        → Djibryl, le héros
+  amir.png           → Amir, le petit frère
+  leuk.png           → Leuk le lièvre (la mascotte)
+  footballeur.png    → le joueur de foot
+  gardien.png        → le gardien de but
+  basketteur.png     → le basketteur
+
+Format idéal : PNG carré, fond transparent, ~1000×1000 px minimum.
+Style : comme la référence Pixar/Disney que tu as envoyée.
+
+Dès qu'un fichier est déposé, dis-le-moi (ou passe son "ready" à true dans
+src/design-system/Character.tsx) et il s'affichera partout dans l'app.
